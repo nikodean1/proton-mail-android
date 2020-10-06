@@ -992,7 +992,7 @@ along with ProtonMail. If not, see https://www.gnu.org/licenses/.
     <string name="mailbox">Mailbox</string>
     <string name="privacy">Privacy</string>
     <string name="auto_download_messages_title">Auto-download messages</string>
-    <string name="auto_download_messages_subtitle">When this option is enabled, messaged bodies will be automatically downloaded each time you receive a new email notification (this will consume more data). If this option is not enabled, message bodies will only be downloaded when you open an email. (Note: with either option, if you clear the cache or log out, you will not be able to read message bodies while offline.)</string>
+    <string name="auto_download_messages_subtitle">When this option is enabled, message bodies will be automatically downloaded each time you receive a new email notification (this will consume more data). If this option is not enabled, message bodies will only be downloaded when you open an email. (Note: with either option, if you clear the cache or log out, you will not be able to read message bodies while offline.)</string>
     <string name="settings_background_sync">Background Sync</string>
     <string name="settings_auto_show_images">Auto Show Remote Images</string>
     <string name="settings_auto_show_embedded_images">Auto Show Embedded Images</string>
